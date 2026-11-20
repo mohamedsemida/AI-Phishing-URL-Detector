@@ -1,0 +1,7 @@
+feature,class,value,count,percentage
+executable,benign,0,7464,100.0
+executable,phishing,0,7357,99.9728
+executable,phishing,1,2,0.0272
+isPortEighty,benign,-1,7464,100.0
+isPortEighty,phishing,-1,7357,99.9728
+isPortEighty,phishing,0,2,0.0272

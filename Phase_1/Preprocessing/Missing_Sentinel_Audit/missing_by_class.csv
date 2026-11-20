@@ -1,0 +1,16 @@
+feature,class,missing_count,class_records,percentage
+avgpathtokenlen,benign,7,7464,0.094
+avgpathtokenlen,phishing,221,7359,3.003
+NumberRate_DirectoryName,phishing,9,7359,0.122
+NumberRate_FileName,phishing,9,7359,0.122
+NumberRate_Extension,benign,4208,7464,56.377
+NumberRate_Extension,phishing,2951,7359,40.101
+NumberRate_AfterPath,benign,1,7464,0.013
+NumberRate_AfterPath,phishing,2,7359,0.027
+Entropy_DirectoryName,benign,972,7464,13.023
+Entropy_DirectoryName,phishing,753,7359,10.232
+Entropy_Filename,benign,155,7464,2.077
+Entropy_Filename,phishing,27,7359,0.367
+Entropy_Extension,benign,1,7464,0.013
+Entropy_Extension,phishing,2,7359,0.027
+Entropy_Afterpath,phishing,3,7359,0.041

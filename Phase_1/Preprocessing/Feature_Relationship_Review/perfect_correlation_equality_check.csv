@@ -1,0 +1,5 @@
+feature_1,feature_2,exactly_equal,different_records
+domain_token_count,tld,True,0
+domain_token_count,SymbolCount_Domain,False,14823
+tld,SymbolCount_Domain,False,14823
+pathLength,subDirLen,True,0

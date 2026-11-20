@@ -1,0 +1,10 @@
+metric,value
+binary_rows,15367
+duplicate_full_rows,544
+duplicate_feature_rows,544
+duplicate_feature_groups,321
+extra_repeated_records,544
+conflicting_label_groups,0
+records_in_conflicting_groups,0
+same_label_duplicate_groups,321
+cross_label_duplicate_groups,0

@@ -1,0 +1,8 @@
+metric,value
+original_rows,36707
+binary_rows,15367
+feature_count,79
+duplicate_full_rows,544
+duplicate_feature_rows,544
+missing_cells,9669
+infinite_cells,9

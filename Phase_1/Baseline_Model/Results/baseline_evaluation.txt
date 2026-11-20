@@ -1,0 +1,22 @@
+LOGISTIC REGRESSION - BASELINE EVALUATION
+==================================================
+Accuracy: 0.9629
+Precision: 0.9620
+Recall: 0.9633
+F1-Score: 0.9627
+ROC-AUC: 0.9935
+PR-AUC: 0.9940
+
+Confusion Matrix:
+[[1437   56]
+ [  54 1418]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      benign       0.96      0.96      0.96      1493
+    phishing       0.96      0.96      0.96      1472
+
+    accuracy                           0.96      2965
+   macro avg       0.96      0.96      0.96      2965
+weighted avg       0.96      0.96      0.96      2965

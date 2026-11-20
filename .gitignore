@@ -1,0 +1,28 @@
+﻿# Raw dataset
+Phase_1/Dataset/All.csv
+
+# Intermediate datasets
+Phase_1/Preprocessing/01_binary_deduplicated.csv
+Phase_1/Preprocessing/Reduced_Features/02_binary_reduced_features.csv
+Phase_1/Preprocessing/Modeling_Preparation/03_modeling_input_before_split.csv
+Phase_1/Preprocessing/Train_Test_Split/train.csv
+Phase_1/Preprocessing/Train_Test_Split/test.csv
+
+# Generated model files and arrays
+*.joblib
+*.npy
+
+# Colab output bundle
+Phase_1/Documentation/phase1_colab_outputs.zip
+Phase_1/Documentation/phase1_colab_outputs/
+
+# Python and Jupyter temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
